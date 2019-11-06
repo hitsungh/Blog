@@ -1,1 +1,14 @@
-theme: jekyll-theme-architect
+title: SUNGH theme
+description: This is a theme fit my own like. The origin version is Architect.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-sungh
+
+url: "https://sungh.xyz"
+baseurl: ""
+
+title: "Guhao Sun"
+
+comments:
+  duoshuo:
+    short_name: "sungh"
